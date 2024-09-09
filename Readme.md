@@ -1,5 +1,3 @@
-Here is a short `README.md` file for the given Snake Game code:
-
 ```markdown
 # Snake Game
 
