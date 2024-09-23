@@ -11,7 +11,7 @@ This project is a simple Snake game built using Python's `pygame` library. The g
 - Restart Option: Players can press 'P' to play again after losing, or 'Q' to quit.
 
 ## Requirements
-- Python 3.x
+- Python 3.12.6
 - `pygame` library
 
 ## Installation
@@ -51,5 +51,7 @@ This project is a simple Snake game built using Python's `pygame` library. The g
 ## License
 This project is open-source and can be modified or redistributed.
 ```
+
+#Contributor:Parthib Karak
 
 This `README.md` provides a concise overview of the Snake game and includes instructions for setting up and playing the game.
